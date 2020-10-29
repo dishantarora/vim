@@ -9,3 +9,10 @@ syntax on
 
 " For plug-ins to load correctly.
 filetype plugin indent on
+
+" Turn off modelines
+set modelines=0
+
+" Automatically wrap text that extends beyond the screen length
+set wrap
+
